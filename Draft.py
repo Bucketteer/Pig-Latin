@@ -34,4 +34,4 @@ def PygLatin(string):
 	except AttributeError:
 		print "Please enter a string"
     
-PygLatin("Pig Latin ahoy there matey")
+PygLatin("Pig Latin")
